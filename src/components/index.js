@@ -3,5 +3,6 @@ export { Footer } from "./Footer";
 
 export { Card } from "./Card";
 export { Button } from "./Button";
+export { Video } from "./Video";
 
 export { ScrollToTop } from "./ScrollToTop";
