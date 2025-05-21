@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Video/>
+     <Video/> 
       <AllRoutes />
       <Footer />
     </div>
