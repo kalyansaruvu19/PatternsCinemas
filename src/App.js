@@ -1,14 +1,15 @@
 import { AllRoutes } from "./routes/AllRoutes";
-import { Header, Footer,Video} from "./components"
+import { Header, Footer} from "./components"
+
 import './App.css';
 
 
 function App() {
+ 
   return (
     <div className="App">
-      <Header />
-     <Video/> 
-      <AllRoutes />
+     <Header />
+     <AllRoutes />
       <Footer />
     </div>
   );
